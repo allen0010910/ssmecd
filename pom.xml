@@ -18,7 +18,7 @@
 		<mybatis-spring.version>1.2.1</mybatis-spring.version>
 		<mybatis-paginator>1.2.9</mybatis-paginator>
 		<druid.version>1.0.1</druid.version>
-		<shiro.version>1.2.3</shiro.version>
+		<shiro.version>1.10.0</shiro.version>
 		<ehcache.version>2.6.6</ehcache.version>
 		<sitemesh.version>2.4.2</sitemesh.version>
 		<activiti.version>5.14</activiti.version>
